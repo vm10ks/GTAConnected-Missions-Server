@@ -1,0 +1,3 @@
+commands.bindAll();
+events.bindAll();
+
