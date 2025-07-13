@@ -1,0 +1,84 @@
+<!--
+	Please see https://wiki.gtaconnected.com/ServerConfiguration for a list of options and information
+-->
+
+<server>
+	<!-- General Information -->
+	<servername>Vice City Online With Missions #1</servername>
+	<game>gta:vc</game>
+	<gamemode>Missions</gamemode>
+	<serverbrowser>true</serverbrowser>
+	<maxplayers>127</maxplayers>
+	<password></password>
+	<minclientversion>1.5.0</minclientversion>
+	<duplicatenames>false</duplicatenames>
+	<timesync>true</timesync>
+	<weathersync>true</weathersync>
+
+	<!-- Networking -->
+	<port>7471</port>
+	<httpport>7471</httpport>
+	<httpserver>true</httpserver>
+	<syncmethod>interval</syncmethod>
+  <synclocalentities>true</synclocalentities>
+<streamindistance>500</streamindistance>
+<streamoutdistance>700</streamoutdistance>
+<pickupstreamindistance>70</pickupstreamindistance>
+<pickupstreamoutdistance>90</pickupstreamoutdistance>
+<streaminterval>750</streaminterval>
+<syncinterval>10</syncinterval>
+<bullet_sync>1</bullet_sync>
+
+    
+	<!-- Logging -->
+	<logpath>logs</logpath>
+	<logtimestamp>[%d/%m/%Y - %X]</logtimestamp>
+
+	<!-- Modules -->
+	<!-- https://wiki.gtaconnected.com/Modules -->
+	<modules>
+		<module src="./modules/mod_sqlite_x64" />
+	</modules>
+
+	<!-- Global CVars -->
+	<!-- https://wiki.gtaconnected.com/CVars -->
+	<cvar name="nametags" value="1" />
+	<cvar name="gunshops" value="1" />
+	<cvar name="uniquestuntjumps" value="1" />
+	<cvar name="stuntjumps" value="1" />
+	<cvar name="stauntontoiletcamera" value="1" />
+	<cvar name="gates" value="1" />
+	<cvar name="trains" value="1" />
+	<cvar name="planes" value="1" />
+	<cvar name="maximumwantedlevel" value="6" />
+	<cvar name="defaultparkedcars" value="1" />
+	<cvar name="ambulances" value="1" />
+	<cvar name="traffic" value="1" />
+	<cvar name="civilians" value="1" />
+	<cvar name="defaultpickups" value="1" />
+	<cvar name="singleplayer" value="1" />
+	<cvar name="bigmap" value="1" />
+
+	<!-- Rules -->
+	<!-- https://wiki.gtaconnected.com/ServerRules -->
+	<rule name="Owner" value="vm10k" />
+    	<rule name="Owner" value="vm10k" />
+    <rule name="Mod" value="v1.2.0b" />
+
+    <rule name="Discord" value="@vm10k" />
+    <rule name="Discord-Server" value="https://discord.gg/Fq5Cu8dVyp" />
+	<rule name="Website" value="https://teamv.ct.ws" />
+
+	<!-- Resources -->
+	<!-- https://wiki.gtaconnected.com/Resources -->
+	<resources>
+        <resource src="Essentials" />
+   
+         <resource src="v-scoreboard" />
+                                         <resource src="v-playercolours" />
+                                                 <resource src="v-playerblips" />
+          <resource src="v-interiors" />
+
+	</resources>
+	</resources>
+</server>
