@@ -1,0 +1,34 @@
+<Root>
+	<Command original="commands" clone="command" />
+	<Command original="commands" clone="cmds" />
+	<Command original="commands" clone="cmd" />
+	<Command original="commands" clone="findcommands" />
+	<Command original="commands" clone="findcommand" />
+	<Command original="commands" clone="findcmds" />
+	<Command original="commands" clone="findcmd" />
+	<Command original="removeblip" clone="removeblips" />
+	<Command original="removeobject" clone="removeobjects" />
+	<Command original="removeped" clone="removepeds" />
+	<Command original="removepickup" clone="removepickups" />
+	<Command original="removesphere" clone="removespheres" />
+	<Command original="removevehicle" clone="removevehicles" />
+	<Command original="commandlevel" clone="cmdlevel" />
+	<Command original="commandlevel" clone="cmdlvl" />
+	<Command original="setcommandlevel" clone="setcmdlevel" />
+	<Command original="setcommandlevel" clone="setcmdlvl" />
+	<Command original="armour" clone="armor" />
+	<Command original="vehicle" clone="v" />
+	<Command original="commandalias" clone="cmdalias" />
+	<Command original="removecommandalias" clone="removecmdalias" />
+	<Command original="removecommandalias" clone="remcmdalias" />
+	<Command original="health" clone="hp" />
+	<Command original="commandaliases" clone="cmdaliases" />
+	<Command original="gotoposition" clone="gotopos" />
+	<Command original="position" clone="pos" />
+	<Command original="rotation" clone="rot" />
+	<Command original="playermodel" clone="skinid" />
+	<Command original="setplayermodel" clone="skin" />
+	<Command original="giveweapon" clone="wep" />
+	<Command original="giveweapon" clone="gun" />
+	<Command original="giveweapon" clone="w" />
+</Root>
