@@ -91,6 +91,7 @@ The script (specifically `missions.js` server and client side) that made this mi
 
 This wasn't intentional — it was a side effect of the working mission logic and Ped behavior.
 It’s a clear sign the sync was **mimicking single-player mechanics in multiplayer** — a rare achievement.
+we were spamming missions 52 "keep your friends close" and mission 16 "killing diaz" might be mission 52 has side effect of completeting the game
 
 ---
 
