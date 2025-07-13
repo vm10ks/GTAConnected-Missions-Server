@@ -1,4 +1,3 @@
-# GTAConnected-Missions-Server
 
 ---
 
