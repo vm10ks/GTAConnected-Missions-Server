@@ -118,7 +118,7 @@ we were spamming missions 52 "keep your friends close" and mission 16 "killing d
 3. Place `server.xml` into your GTA Connected server directory.
 4. Run the server using the included config.
 5. Connect using the GTA Connected client.
-6. if youw want directly to access our server add this ip: 5.39.50.70:7471
+6. if you want directly to access our server add this ip: 5.39.50.70:7471
 
 ---
 
